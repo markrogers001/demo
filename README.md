@@ -4,4 +4,4 @@ This is a simple README file
 
 ## Heading 2
 
-This bound to cause trouble
+Just showing how to stash something
